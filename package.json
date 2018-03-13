@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "codemods",
+  "version": "0.0.0",
+  "description": "A collection of JavaScript codemods",
+  "repository": "git@github.com:Lapixx/codemods.git",
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "jscodeshift": "^0.5.0"
+  }
+}
